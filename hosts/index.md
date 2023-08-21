@@ -1,4 +1,4 @@
-# Hosts within RevSplit
+# Hosts
 
 In the world of content creation, distributing your work through various platforms, or "Hosts," is crucial to reaching a wider audience and generating revenue. With RevSplit, you can seamlessly integrate these Hosts into your account to efficiently manage your earnings. 
 
