@@ -17,10 +17,10 @@ hero:
 features:
   - title: Hosts
     details: Manage your earnings from all of your Hosts in one place.
-    link: /hosts
+    link: /hosts/index
   - title: Clients
     details: Manage the Clients you work with, and add ownership to their accounts.
-    link: /clients
+    link: /clients/index
   - title: Payment Methods
     details: Manage the client payment methods for distributing earnings.
   - title: Audio Assets
