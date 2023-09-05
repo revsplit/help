@@ -12,10 +12,31 @@
   --vp-c-brand-light: #232323;
   --vp-c-brand-lighter: #2f2f2f;
   --vp-c-brand-lightest: #515151;
+  
+  --vp-c-brand-1: var(--vp-c-brand);
+  --vp-c-brand-2: var(--vp-c-brand-light);
+  --vp-c-brand-3: var(--vp-c-brand-lighter);
+  --vp-c-brand-soft: var(--vp-c-brand-lightest);
+
   --vp-c-brand-dark: #000000;
   --vp-c-brand-darker: #020202;
   --vp-c-brand-dimm: rgba(100, 108, 255, 0.08);
 }
+
+
+:root {
+  --vp-c-white: #ffffff;
+  --vp-c-black: #000000;
+
+  --vp-c-neutral: var(--vp-c-black);
+  --vp-c-neutral-inverse: var(--vp-c-white);
+}
+
+.dark {
+  --vp-c-neutral: var(--vp-c-white);
+  --vp-c-neutral-inverse: var(--vp-c-black);
+}
+
 
 /**
  * Component: Button
