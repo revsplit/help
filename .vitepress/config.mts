@@ -8,7 +8,8 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'My account', link: 'https://app.getrevsplit.com/?via=help' }
+      { text: 'My account', link: 'https://app.getrevsplit.com/?via=help' },
+      { text: 'Contact support', link: 'https://getrevsplit.com/contact?via=help' }
     ],
     logo: '/img/revsplit_black.svg',
     siteTitle: false,

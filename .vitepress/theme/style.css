@@ -74,6 +74,7 @@
   --docsearch-primary-color: var(--vp-c-brand) !important;
 }
 
-header .hamburger {
+header .hamburger,
+.vp-external-link-icon.VPNavBarMenuLink:after {
   display: none !important;
 }
