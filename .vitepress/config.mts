@@ -18,6 +18,10 @@ export default defineConfig({
       provider: 'local'
     },
 
+    sitemap: {
+      hostname: 'https://help.getrevsplit.com'
+    },
+
     sidebar: [
       { text: 'Home', link: '/' },
       { text: 'Getting started', link: '/getting-started' },
