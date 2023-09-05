@@ -1,11 +1,10 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-title: "Resource Center"
+title: "Help Center"
 
 hero:
   
-  name: "Resource Center"
+  name: "Help Center"
   tagline: "All information you need to know about RevSplit in one place."
   actions:
     - theme: brand
@@ -13,7 +12,7 @@ hero:
       link: /getting-started
     - theme: alt
       text: Contact our team
-      link: https://getrevsplit.com/contact-us
+      link: https://getrevsplit.com/contact
 features:
   - title: Hosts
     details: Manage your earnings from all of your Hosts in one place.
