@@ -28,7 +28,7 @@ export default defineConfig({
       {
         text: 'Clients',
         items: [
-          { text: 'What are Clients?', link: '/clients' },
+          { text: 'What are Clients?', link: '/clients/index' },
           { text: 'Adding a Client', link: '/clients/adding-a-client' },
           { text: 'Deleting a Client', link: '/clients/deleting-a-client' },
         ]
@@ -36,7 +36,7 @@ export default defineConfig({
       {
         text: 'Hosts',
         items: [
-          { text: 'What are Hosts?', link: '/clients' },
+          { text: 'What are Hosts?', link: '/clients/index' },
           { text: 'Adding a Host', link: '/hosts/adding-a-host' },
           { text: 'Deleting a Host', link: '/hosts/deleting-a-host' },
         ]
