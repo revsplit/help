@@ -8,8 +8,8 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'My account', link: 'https://app.getrevsplit.com/?via=help' },
-      { text: 'Contact support', link: 'https://getrevsplit.com/contact?via=help' }
+      { text: 'My account', link: 'https://app.revsplit.net/?ref=help' },
+      { text: 'Contact support', link: 'https://revsplit.net/contact?ref=help' }
     ],
     logo: '/img/revsplit_black.svg',
     siteTitle: false,
@@ -74,7 +74,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'twitter', link: 'https://twitter.com/revsplit' },
       { icon: 'facebook', link: 'https://facebook.com/revsplit' },
-      { icon: 'instagram', link: 'https://instagram.com/revsplit' }
+      { icon: 'instagram', link: 'https://instagram.com/getrevsplit' }
     ]
   }
 })

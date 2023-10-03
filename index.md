@@ -12,7 +12,7 @@ hero:
       link: /getting-started
     - theme: alt
       text: Contact our team
-      link: https://getrevsplit.com/contact
+      link: https://revsplit.net/contact?via=help
 features:
   - title: Hosts
     details: Manage your earnings from all of your Hosts in one place.

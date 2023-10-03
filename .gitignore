@@ -7,7 +7,6 @@
 .idea
 .temp
 .vite_opt_cache
-package-lock.json
 bun.lockb
 .vscode
 dist
